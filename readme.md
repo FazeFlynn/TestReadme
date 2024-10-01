@@ -157,7 +157,10 @@
 
 3. **F-Beta Score:**
    - Combines precision and recall.
-   - Formula: ![imgPika](https://islamkhan.in/img/webPikaPur.png)
+   - Formula: <img src="https://mathembed.online/embed/h4RiJxAv7X6VO4shtAen" alt="Mean Formula" width="100" height="auto" />
+   <!-- - Formula: ![imgPika](https://islamkhan.in/img/webPikaPur.png) -->
+   <!-- - Formula: -->
+
 
 
 
