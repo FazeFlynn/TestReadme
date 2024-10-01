@@ -164,6 +164,7 @@
 ## 21 September 2024
 
 ### Descriptive and Inferential Statistics
+![imgPika](https://islamkhan.in/img/webPikaPur.png)
 
 #### Measures of Central Tendency:
 1. **Mean:** 
