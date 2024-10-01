@@ -144,9 +144,7 @@
 
 1. **Precision:**
    - Formula: 
-     \[
-     \text{Precision} = \frac{TP}{TP + FP}
-     \]
+     > ![imgPika](https://latex2png.com/pngs/1a49ca6672a7260a61e55988e46b4fc1.png)
 
 2. **Recall:**
    - Formula: 
@@ -156,8 +154,7 @@
    - Used when reducing **False Negatives (FN)** is important.
 
 3. **F-Beta Score:**
-   - Combines precision and recall.
-   <!-- - Formula:    -->
+   - Combines precision and recall   <!-- - Formula:    -->
    <!-- <img src="https://latex2png.com/pngs/f89686c6eb39f5c188495ee51da64a14.png" alt="Mean Formula" width="100" height="auto" /> -->
    - Formula:   
    > ![imgPika](https://latex2png.com/pngs/dd406d70ab56d01c7b40640a7d9da20e.png)
