@@ -160,7 +160,7 @@
    <!-- - Formula:    -->
    <!-- <img src="https://latex2png.com/pngs/f89686c6eb39f5c188495ee51da64a14.png" alt="Mean Formula" width="100" height="auto" /> -->
    - Formula:   
-   ![imgPika](https://latex2png.com/pngs/dd406d70ab56d01c7b40640a7d9da20e.png)
+   > ![imgPika](https://latex2png.com/pngs/dd406d70ab56d01c7b40640a7d9da20e.png)
    <!-- - Formula: -->
   
 
